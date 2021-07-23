@@ -1,0 +1,3 @@
+selected model:
+
+KNeighborsRegressor(n_neighbors=8)
